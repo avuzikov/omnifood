@@ -1,7 +1,7 @@
 ## Links
 
 The deployed version of the website can be found here: https://omnifood-273a3.web.app \
-This project is done as a part of an [Udemy Course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3
+This project is done as a part of an [Udemy Course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)
 
 ## Description
 
